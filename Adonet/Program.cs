@@ -9,6 +9,10 @@ namespace Adonet
     {
         static void Main(string[] args)
         {
+            /*
+            Spotify taskının ardı olaraq. Bu gün keçdiyimiz struktura uyğun olaraq Music və Artist tablelarına Create və GetAll methodlarını yazın. 
+            */
+
             //Sql.ExecCommand("INSERT INTO Artists VALUES (N'Mehmet',N'Gureli')");
             ArtistService artistService = new ArtistService();
             //Artist artist1 = new Artist { Name = "Ilham", Surname = "Mikayilov" };
